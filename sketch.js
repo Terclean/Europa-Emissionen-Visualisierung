@@ -6,17 +6,14 @@ let l = 10;
 //Color Cirles
 let c1;
 let c2;
-//Color Lable
-let c3;
-let c4;
+//Color Lable´
 
-function preload() {
-  //laden der Emmisoinsdaten von Github
-  data = loadTable("https://raw.githubusercontent.com/plotly/datasets/master/Emissions%20Data.csv", "csv", "header");
-  bg = loadImage("Europa Grundmap.png");
-}
 
-function setup() {
+search for problems
+
+
+lol Follow ATD on Twitter
+
   createCanvas(1000, 1000);
   //Damit es vereinheitlicht ist
   textSize(12);
